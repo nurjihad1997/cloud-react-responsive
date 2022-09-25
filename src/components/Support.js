@@ -5,7 +5,7 @@ import {
 import {
     ChipIcon, SupportIcon
 } from '@heroicons/react/solid'
-import supportImg from '../assets/support.jpg'
+import supportImg from '../assets/human.jpg'
 
 const Support = () => {
   return (
